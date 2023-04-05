@@ -1,1 +1,3 @@
 # Predictive-Maintenance-Naval-Vessel-Condition
+
+The aim of this project is to predict the condition of naval vessel machinery based on vibration measurements. In this project, I have used machine learning techniques to develop a model that can accurately predict the condition of the machinery. This project is important because it has significant implications for the naval industry, where unexpected machinery failures can be costly and dangerous. By predicting the condition of the machinery, maintenance can be performed proactively, thus preventing unexpected failures. In this presentation, I will be discussing the data used in this project, the methodology employed, the findings obtained, and the potential impact of the project.
